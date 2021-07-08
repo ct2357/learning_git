@@ -12,3 +12,7 @@ change in remote
 change in local
 
 4. a little some changes 
+
+5.stash changes in local main
+git checkout -b branch2 origin/main to create branch2 from the origin/main which is beyond local/main by 1
+want to push this change to origin/main
